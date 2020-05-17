@@ -1,4 +1,4 @@
-## <div align="center"> BI
+## <div align="center"> Business Intelligence
 
 ---
 
